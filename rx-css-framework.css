@@ -4976,7 +4976,7 @@ table {
 	margin-bottom: auto !important;
 }
 
-.mb-inherit {
+.mb-inherit, .my-inherit {
 	margin-bottom: inherit !important;
 }
 
@@ -5596,7 +5596,7 @@ table {
 	margin-left: auto !important;
 }
 
-.ml-inherit {
+.ml-inherit, .mx-inherit {
 	margin-left: inherit !important;
 }
 
@@ -6216,7 +6216,7 @@ table {
 	margin-right: auto !important;
 }
 
-.mr-inherit {
+.mr-inherit, .mx-inherit {
 	margin-right: inherit !important;
 }
 
@@ -6836,7 +6836,7 @@ table {
 	margin-top: auto !important;
 }
 
-.mt-inherit {
+.mt-inherit, .my-inherit {
 	margin-top: inherit !important;
 }
 
