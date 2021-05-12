@@ -2029,6 +2029,10 @@ table {
 	font-weight: 300 !important;
 }
 
+.fz-thin {
+	font-weight: 100 !important;
+}
+
 .fz-lighter {
 	font-weight: 200 !important;
 }
