@@ -7469,11 +7469,11 @@ table {
 }
 
 .mxh-auto {
-	max-height: auto !important;
+	max-height: initial !important;
 }
 
 .mxw-auto {
-	max-width: auto !important;
+	max-width: initial !important;
 }
 
 .no-gutters {
