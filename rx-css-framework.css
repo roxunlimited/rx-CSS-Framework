@@ -17210,11 +17210,11 @@ table {
 	}
 
 	.sm-mxh-auto {
-		max-height: auto !important;
+		max-height: initial !important;
 	}
 
 	.sm-mxw-auto {
-		max-width: auto !important;
+		max-width: initial !important;
 	}
 
 	.sm-p-5p {
@@ -26153,11 +26153,11 @@ table {
 	}
 
 	.md-mxh-auto {
-		max-height: auto !important;
+		max-height: initial !important;
 	}
 
 	.md-mxw-auto {
-		max-width: auto !important;
+		max-width: initial !important;
 	}
 
 	.md-p-5p {
@@ -35096,11 +35096,11 @@ table {
 	}
 
 	.lg-mxh-auto {
-		max-height: auto !important;
+		max-height: initial !important;
 	}
 
 	.lg-mxw-auto {
-		max-width: auto !important;
+		max-width: initial !important;
 	}
 
 	.lg-p-5p {
@@ -44039,11 +44039,11 @@ table {
 	}
 
 	.xl-mxh-auto {
-		max-height: auto !important;
+		max-height: initial !important;
 	}
 
 	.xl-mxw-auto {
-		max-width: auto !important;
+		max-width: initial !important;
 	}
 
 	.xl-p-5p {
@@ -53062,11 +53062,11 @@ table {
 	}
 
 	.fs-mxh-auto {
-		max-height: auto !important;
+		max-height: initial !important;
 	}
 
 	.fs-mxw-auto {
-		max-width: auto !important;
+		max-width: initial !important;
 	}
 
 	.fs-p-5p {
