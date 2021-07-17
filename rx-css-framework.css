@@ -2837,7 +2837,7 @@ table {
 
 .img-auto {
 	height: auto;
-	max-width: auto;
+	max-width: initial;
 }
 
 .img-fluid {
@@ -12633,7 +12633,7 @@ table {
 
 	.sm-img-auto {
 		height: auto;
-		max-width: auto;
+		max-width: initial;
 	}
 
 	.sm-img-fluid {
@@ -21576,7 +21576,7 @@ table {
 
 	.md-img-auto {
 		height: auto;
-		max-width: auto;
+		max-width: initial;
 	}
 
 	.md-img-fluid {
@@ -30519,7 +30519,7 @@ table {
 
 	.lg-img-auto {
 		height: auto;
-		max-width: auto;
+		max-width: initial;
 	}
 
 	.lg-img-fluid {
@@ -39462,7 +39462,7 @@ table {
 
 	.xl-img-auto {
 		height: auto;
-		max-width: auto;
+		max-width: initial;
 	}
 
 	.xl-img-fluid {
@@ -48405,7 +48405,7 @@ table {
 
 	.fs-img-auto {
 		height: auto;
-		max-width: auto;
+		max-width: initial;
 	}
 
 	.fs-img-fluid {
